@@ -4,8 +4,6 @@ python flask api for fetching history and intraday data from yafoo finance.
 
 ## API
 
-Back-end Python Flask API for storing stock and option portfolio.
-
 | HTTP Method | URI | Action|
 | ------------- | ------------- | ------------- |
 | GET | http://[hostname]/api/[version]/history | get all history stock data (Open, High, Low, Close, Adj Close) |
